@@ -61,11 +61,7 @@ The system uses multi-sensor data fusion and machine learning techniques to pred
 
 A Flutter-based mobile application displays:
 
-- Sensor Readings
-- Ripeness Predictions
-- Sugar & Acidity Estimates
-- Time-to-Consume Predictions
-- Personalized Health Recommendations
+![Mobile Application](Images/MobileApp_Screens.png)
 
 ---
 
@@ -99,8 +95,10 @@ A Flutter-based mobile application displays:
 
 ## 🚀 System Architecture
 
+# 🏗 System Work Flow
+
 <p align="center">
-  <img src="Images/system_workflow.jpg" alt="System Workflow" width="850">
+  <img src="Images/system workflow.jpg" width="900">
 </p>
 
 ---
