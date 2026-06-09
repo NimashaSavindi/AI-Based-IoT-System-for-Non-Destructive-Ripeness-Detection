@@ -95,8 +95,6 @@ A Flutter-based mobile application displays:
 
 ## 🚀 System Architecture
 
-# 🏗 System Work Flow
-
 <p align="center">
   <img src="Images/system workflow.jpg" width="900">
 </p>
